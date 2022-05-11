@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Laraellenh
-- 👀 I’m interested in learn to code, seeing what scale to do for great ideas, reading, hamsters, and writing.
-- 🌱 I’m currently learning js, css, html, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am looking for exciting opportunties in SWE. Fullstack, front or back-end. I love to problem solve and do pattern recognition.
+- If you are amazing with data structures and algorithms, let's do a pairing lab. That is my current course of study.
+
 
 <!---
 Laraellenh/Laraellenh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
